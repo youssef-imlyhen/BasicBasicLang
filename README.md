@@ -1,4 +1,4 @@
-# teenytinycompiler
+# BasicBasicLang
 
 This is a small compiler to learn how compilers work. It compiles our own dialect of BASIC to C, while being written in Python.
 Read the tutorial by MR Austin Z. Henley: [Let's make a Teeny Tiny compiler, part 1](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html) 
