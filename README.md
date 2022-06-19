@@ -5,7 +5,7 @@ Read the tutorial by MR Austin Z. Henley: [Let's make a Teeny Tiny compiler, par
 
 Knowing that just reading the tutorial and copy/past the code isn't enough to understand and grasp those concepts, I went through this process:
 1. read the tutorial and got a general idea about the structure of the project.
-2. debugued the final version of the compiler ([part3](https://github.com/AZHenley/teenytinycompiler/tree/master/part3) and wrote some notes.
+2. debugued the final version of the compiler ([part3](https://github.com/AZHenley/teenytinycompiler/tree/master/part3)) and wrote some notes.
 3. based on those notes i built it. 
 
 It supports:
