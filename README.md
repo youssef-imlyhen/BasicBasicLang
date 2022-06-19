@@ -1,2 +1,2 @@
 # mybasiclang
-an implementation trying to clone the "basic" language
+an implementation trying to clone the basic language
